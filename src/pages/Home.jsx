@@ -1,6 +1,6 @@
 import HeroSection from "../components/HeroSection";
-import CRM from "../components/CRM";
-import Navbar from "../components/Navbar";
+import Crm from "../components/Crm";
+// import Navbar from "../components/Navbar";
 import About from "../components/About";
 import Features from "../components/Features";
 import Demo from "../components/Demo";
@@ -15,7 +15,7 @@ export default function Home() {
       {/* <Navbar /> */}
       <HeroSection />
       <About/>
-      <CRM/>
+      <Crm/>
       <Features />
       <Testimonials />
       <Demo/>

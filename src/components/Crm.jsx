@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
+import React from "react";
 
-export default function SystemModules() {
+export default function Crm() {
   const [open, setOpen] = useState(null);
   const toggle = (idx) => setOpen(open === idx ? null : idx);
 
