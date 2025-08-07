@@ -30,10 +30,10 @@ export default function Footer() {
         <div>
           <h3 className="text-purple-600 dark:text-purple-300 font-semibold mb-4">Our Services</h3>
           <ul className="space-y-2">
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">CRM</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">ERP</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Manufacturing</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Sales Management</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">PowerBI Analytics</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Export & Reporting</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Invoices Upload & Management</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Cloud Storage Integration</li>
           </ul>
         </div>
 
@@ -41,11 +41,11 @@ export default function Footer() {
         <div className="mt-4 md:mt-0">
           <h3 className="text-purple-600 dark:text-purple-300 font-semibold mb-4">More Solutions</h3>
           <ul className="space-y-2">
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Payroll Management</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Service Management</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">AMC Management</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Inventory Management</li>
-            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Accounting</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Multidepartment Access</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Audit Trail</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Role Based Access</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Email Notification</li>
+            <li className="hover:text-purple-600 dark:hover:text-purple-300 cursor-pointer">Smart Bill</li>
           </ul>
         </div>
 
